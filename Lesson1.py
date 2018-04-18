@@ -14,4 +14,7 @@ for i in range(4):
 
 print()
 
-print(a*2)
+print(a*3)
+
+
+print(2+2)
